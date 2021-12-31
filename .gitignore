@@ -1,9 +1,10 @@
 
 
 #JDL's additions
+*.swp
 .gitignore
 passwordFile.txt
-./data/*
+data/*
 
 
 
